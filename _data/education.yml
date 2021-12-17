@@ -1,13 +1,13 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Computer science Degree
+  uni: ENSA Khouribga
+  year: 2011 &mdash; 2017
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: SQLi Code challenge
+  summary: I participate in writing code challenges and made nice progress on development skills.
 
 - degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
+  uni: Afourar
+  year: 2011
   award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+  summary:

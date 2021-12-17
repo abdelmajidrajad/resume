@@ -1,16 +1,27 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# cleanlife.cc
+- project: CleanLife
+  role: Bootstapper & Primary Developer
+  duration: 2020 &mdash; Present
+  url: "https://www.cleanlife.cc"
+  description: Designing and building a solution for addicted people to prevent and help them leave the danger zone.
+# Kunuru
+- project: Kunuru
+  role: iOS Developer
+  duration: Jan, 2020 &mdash; Present
+  url: "https://kunuru.app/en/landing"
+  description: a social network that helps communities bring their members together to create social change.
+# Zitouna
+- project: Zitouna
+  role: Founder
+  duration: Jan, 2020 &mdash; Present
+  url: "https://zitouna.xyz"
+  description: Build and Design iOS application that help manage olive press.
+# Progress
+- project: Watch Progress
+  role: Founder
+  duration: Jan, 2020 &mdash; Present
+  url: "https://apps.apple.com/us/app/progress-anything-watch-it/id1527416109"
+  description: Productive app used to help users knows year, month and life progress.

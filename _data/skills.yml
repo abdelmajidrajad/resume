@@ -1,12 +1,12 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Mobile app development
+- skill: Mobile development
+  description: I have several years of experience building ios apps using different architecture and approaches.
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Mobile Design
+  description: creation and designing screens and workflow for mobile apps.
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: iOS apps
+  description: SwiftUI, TCA, UIKit, MVVM, SpriteKit, Modular architectures.
