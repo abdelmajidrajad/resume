@@ -20,8 +20,8 @@ resume_contact_email:           "abdelmajid.rajad@gmail.com"
 resume_contact_telephone:       "+212652631619"
 resume_contact_address:         "11 Bloc B Appr al-majd"
 
-resume_header_contact_info:     "11 Bloc B Appr al-majd, Benimellal • +212652631619 • abdelmajid.rajad@gmail.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "BeniMellal • 📞 +212652631619"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>
   I'm an iOS Software Engineer, I've been working since 2015 exclusively on iOS projects: from Objective-C through all the multiple Swift and Xcode versions.
