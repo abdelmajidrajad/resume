@@ -10,3 +10,7 @@
 # Digital content development and creation
 - skill: iOS apps
   description: SwiftUI, TCA, UIKit, MVVM, SpriteKit, Modular architectures.
+
+# Tools
+- skill: Tools
+  description: JIRA, Unit Testing, Scrum, Figma, Git.
