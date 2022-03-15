@@ -1,4 +1,11 @@
 # Jobs
+
+# HSE
+- company: HSE
+  position: Swift Developer
+  duration: Junary, 2022  &mdash; Current
+  summary: Building a streaming app to make shopping easy and entertaining.
+
 # Upwork Freelance
 - company: Upwork Freelance
   position: Mobile app developer
@@ -10,8 +17,7 @@
   position: iOS Developer
   duration:  Jan, 2020 &mdash; Sept, 2020
   summary: Build iOS app from scratch with UIKit, TCA and Kotlin multiplatform module.
-
-
+  
 # Bootstapper
 - company: Hidden Founders
   position: Swift Developer
