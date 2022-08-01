@@ -4,7 +4,14 @@
 - company: HSE
   position: Swift Developer
   duration: Junary, 2022  &mdash; Current
-  summary: Building a streaming app to make shopping easy and entertaining.
+  summary: |
+    • Hello is a shopping app designed to help customers watch creator live videos from any place in the world with the best streaming capabilities. 
+    • Performed technical designs and app architecture implementation.
+    • Reviewed client requirements, wireframes, and designs for technical feasibility.
+    • Improved product quality through code reviews, writing effective unit tests, and collaborating with QA on implementing automation testing.
+    • Collaborated with the scrum team to translate client requirements into implementable user stories.
+    • Explored new technologies and shared findings with the team.
+    • Tech stack Swift, Jira, Unit Testing, and Automation Testing.
 
 # Upwork Freelance
 - company: Upwork Freelance

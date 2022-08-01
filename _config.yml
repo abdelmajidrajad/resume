@@ -1,6 +1,6 @@
 # Site settings
 title: "Abdelmajid Rajad"
-description: "Expert iOS Developer"
+description: "Expert iOS Engineer"
 
 # Build settings
 markdown: kramdown
@@ -24,7 +24,7 @@ resume_header_contact_info:     "Beni Mellal • 📞 +212652631619"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>
-  I'm an iOS Software Engineer, I've been working since 2015 exclusively on iOS projects: from Objective-C through all the multiple Swift and Xcode versions.
+  iOS engineer with 5 years of experience in iOS development. Have built iOS apps for many clients and helped many teams ship stable apps with great features. Passionate about building iOS apps with the latest technologies. Like to help people and answer co-workers' questions or concerns.
 </p>"
 
 # use "yes" to display the email contact button,
